@@ -1,6 +1,6 @@
 My Little Malloc(), CS214 SPR24
 
-Project by: Ivan Pan(ip278), Aysenur Kochan(ak1965)
+Project by: Ivan Pan (ip278)
 
 Implementation of Malloc(), Free(): Design
 **mymalloc.c**; 
